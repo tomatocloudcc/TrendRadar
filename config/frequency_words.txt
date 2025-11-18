@@ -4,8 +4,8 @@ DeepSeek
 qwen
 千问
 
-AI视频生成
-AI生图
+AI视频
+AI图片
 
 谷歌
 google
@@ -23,10 +23,11 @@ ai
 !gai
 人工智能
 
+开源
+
 华为
 鸿蒙
 HarmonyOS
-任正非
 
 比亚迪
 王传福
@@ -44,7 +45,7 @@ DJI
 
 字节
 bytedance
-张一鸣
+豆包
 
 特斯拉
 马斯克
@@ -92,3 +93,6 @@ ios
 宇宙
 飞船
 航空
+
+出海
+海外
